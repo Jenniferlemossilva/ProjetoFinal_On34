@@ -1,5 +1,4 @@
 
-Aqui está a versão aprimorada do seu README com destaque nos títulos, emojis e links diretos para as páginas citadas, pronta para ser usada no GitHub:
 
 🛡️ Segurança e Violação aos Direitos da Mulher
 Bem-vindo(a) ao projeto "Segurança e Violação aos Direitos da Mulher". Este repositório tem como foco central a análise de um dos problemas sociais mais alarmantes no Brasil: a violência de gênero, com especial atenção às violências cometidas contra mulheres cisgênero, travestis e transexuais. A violência contra essas populações reflete não apenas a desigualdade estrutural de gênero, mas também um contexto sociocultural marcado pela discriminação e exclusão.
