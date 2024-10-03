@@ -45,7 +45,7 @@ Estamos abertos a colaborações e sugestões! Se você deseja contribuir com es
 
 Este projeto foi desenvolvido em colaboração com a **<span style="color:pink">Reprograma</span>**.
 
-## 👩‍💻 **Alunas**: Jennifer Lemos ♀️, Lohana ⚧️, Gabriela ♀️
+## 👩‍💻 **Alunas**: Jennifer Lemos, Lohana, Gabriela.
 
 ## 📬 **Contato**
 
