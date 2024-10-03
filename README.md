@@ -1,4 +1,4 @@
-# 🛡️ **Segurança e Violação aos Direitos da Mulher por Jennifer Lemos, Gabriela e Lohana**
+# 🛡️ **Segurança e Violação aos Direitos da Mulher**
 
 Bem-vindo(a) ao projeto **"Segurança e Violação aos Direitos da Mulher"**. Este repositório tem como foco central a análise de um dos problemas sociais mais alarmantes no Brasil: a **violência de gênero**, com especial atenção às violências cometidas contra **mulheres cisgênero, travestis e transexuais**. A violência contra essas populações reflete não apenas a desigualdade estrutural de gênero, mas também um contexto sociocultural marcado pela discriminação e exclusão.
 
@@ -41,7 +41,14 @@ Estamos abertos a colaborações e sugestões! Se você deseja contribuir com es
 3. Faça suas alterações e comente claramente o que foi mudado.
 4. Envie um **Pull Request**.
 
+## 💡 **Instituição**
+
+Este projeto foi desenvolvido em colaboração com a **<span style="color:pink">Reprograma</span>**.
+
+## 👩‍💻 **Alunas**: Jennifer Lemos, Lohana e Gabriela
+
 ## 📬 **Contato**
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato.
+
 
