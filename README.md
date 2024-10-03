@@ -1,4 +1,4 @@
-🛡️ Segurança e Violação aos Direitos da Mulher ♀️⚧️
+# 🛡️ **Segurança e Violação aos Direitos da Mulher** ♀️⚧️
 
 Bem-vindo(a) ao projeto **"Segurança e Violação aos Direitos da Mulher"**. Este repositório tem como foco central a análise de um dos problemas sociais mais alarmantes no Brasil: a **violência de gênero**, com especial atenção às violências cometidas contra **mulheres cisgênero, travestis e transexuais**. A violência contra essas populações reflete não apenas a desigualdade estrutural de gênero, mas também um contexto sociocultural marcado pela discriminação e exclusão.
 
@@ -45,11 +45,13 @@ Estamos abertos a colaborações e sugestões! Se você deseja contribuir com es
 
 Este projeto foi desenvolvido em colaboração com a **<span style="color:pink">Reprograma</span>**.
 
-## 👩‍💻 **Alunas**: Jennifer Lemos, Lohana, Gabriela.
+## 👩‍💻 **Alunas**  
+<sub>Jennifer Lemos ♀️, Lohana ⚧️, Gabriela ♀️</sub>
 
 ## 📬 **Contato**
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato.
+
 
 
 
